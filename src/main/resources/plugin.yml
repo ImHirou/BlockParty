@@ -1,0 +1,11 @@
+name: BlockParty
+version: '${project.version}'
+main: me.secretlovers.blockparty.BlockParty
+api-version: '1.16'
+depend:
+  [WorldEdit]
+
+commands:
+  arena:
+    description: desc
+    usage: /arena
